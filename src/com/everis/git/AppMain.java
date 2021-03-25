@@ -10,7 +10,7 @@ package com.everis.git;
 public class AppMain {
 	
 	/**
-	 * Metodo prinicpal de la clase
+	 * Metodo principal de la clase
 	 * 
 	 * @param args
 	 */
